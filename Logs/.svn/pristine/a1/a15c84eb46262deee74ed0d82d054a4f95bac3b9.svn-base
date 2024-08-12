@@ -1,0 +1,49 @@
+04-Jan-23 12:19:28- ====== WebDriver manager ======
+04-Jan-23 12:19:29- Get LATEST chromedriver version for google-chrome 108.0.5359
+04-Jan-23 12:19:31- Driver [C:\Users\MonalisaB\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+04-Jan-23 12:19:34- ****** Driver Initialized ******
+04-Jan-23 12:19:34- ******Browser Launched ******
+04-Jan-23 12:19:36- Navigating to https://uat.lineclearexpressonline.com
+04-Jan-23 12:19:42- ******Entering Username **********
+04-Jan-23 12:19:42- ******Enter Data ******
+04-Jan-23 12:19:45- ****** Waitinging ******
+04-Jan-23 12:19:45- Waiting for password to be visible
+04-Jan-23 12:19:45- ************* Waiting For Element *************
+04-Jan-23 12:19:45- ******Enter Data ******
+\Users\MonalisaB\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+****** Driver Initialized ******
+****** Driver Initialized ******
+****** Driver Initialized ******
+****** Driver Initialized ******
+******Browser Launched ******
+******Browser Launched ******
+******Browser Launched ******
+******Browser Launched ******
+Navigating to https://uat.lineclearexpressonline.com
+Navigating to https://uat.lineclearexpressonline.com
+Navigating to https://uat.lineclearexpressonline.com
+Navigating to https://uat.lineclearexpressonline.com
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+Waiting for password to be visible
+Waiting for password to be visible
+Waiting for password to be visible
+Waiting for password to be visible
+************* Waiting For Element *************
+************* Waiting For Element *************
+************* Waiting For Element *************
+************* Waiting For Element *************
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******

@@ -1,0 +1,51 @@
+{
+    "shipper": {
+        "shipper": "BunzlKansasCity",
+        "description": "BUNZL R3 MINNEAPOLIS (30-320)"
+    },
+    "shipTo": "NRCC#1",
+    "hawb": "PIPOHAWB3",
+    "cevaAppointment": "48612",
+    "trailer": "",
+    "pallets": [
+        
+        {
+            "licensePlate": "00107273510050619803",
+            "bulkFlag": "1",
+            "items": [
+                {
+                    "item": "Z0163",
+                    "description": "Record to check without the leading zeros in the store number",
+                    "length": "",
+                    "width": "",
+                    "cube": 10,
+                    "weight": 30,
+                    "isHazmat": "1",
+                    "unNumber": "1090",
+                    "unProperShippingName": "ACETONE SOLUTION",
+                    "packingGroup": "I",
+                    "hazClass": "9",
+                    "quantity": 20
+                }
+            ],
+            "itemOrders": [
+                {
+                    "item": {
+                        "item": "Z0163"
+                    },
+                    "storeOrderQtys": [
+                        {
+                            "store": "0100",
+                            "quantity": 20,
+                            "arriveByDate": "2024-04-22",
+                            "demandId": "",
+                            "demandDescription": "",
+                            "poOrder": "7005824022",
+                            "poOrderLine": "20"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

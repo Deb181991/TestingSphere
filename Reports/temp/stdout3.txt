@@ -1,0 +1,13 @@
+Feature: Check the login functionality of sphereWMS application # features/Sphere/Sphere_pick.feature:1
+
+  @Pick1
+  Scenario Outline: Parallel1 -- @1.1                               # features/Sphere/Sphere_pick.feature:21
+    Given launch the "https://sandbox.v2.nonprod.spherewms.com/"    # features/steps/Sphere_step.py:18
+    Then Enter the "umar.anwar@spherewms.com" in the username field # features/steps/Sphere_step.py:28
+    Then Enter the "Silentassasin123" in the Password field         # features/steps/Sphere_step.py:34
+    Then click on login button                                      # features/steps/Sphere_step.py:39
+    And click on Allocation Menu                                    # features/steps/Sphere_step.py:126
+    Then click on Pick Submenu                                      # features/steps/Sphere_step.py:130
+    Then choose "NRCC#1" from location dropdown box                 # features/steps/Sphere_step.py:134
+    Then click on getNextPick button                                # features/steps/Sphere_step.py:138
+    Then enter "16020840593472106508" in Scan License Plate field   # features/steps/Sphere_step.py:141

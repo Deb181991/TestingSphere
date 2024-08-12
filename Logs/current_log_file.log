@@ -1,0 +1,8 @@
+09/07/2024 04:36:39 PM: INFO: environment: before_all: Browser Name Entered
+09/07/2024 04:36:39 PM: INFO: environment: before_all: Driver Initialized
+09/07/2024 04:36:39 PM: INFO: Sphere_step: LandingPage: ****** Url Launched ******
+09/07/2024 04:36:41 PM: INFO: GenericMethod: navigateTo: Navigating to https://sandbox.v2.nonprod.spherewms.com/
+09/07/2024 04:36:48 PM: INFO: Sphere_step: step_impl: ******Entering Username **********
+09/07/2024 04:36:48 PM: INFO: Sphere_step: LandingPage: ****** Url Launched ******
+09/07/2024 04:36:50 PM: INFO: GenericMethod: navigateTo: Navigating to https://sandbox.v2.nonprod.spherewms.com/
+09/07/2024 04:36:53 PM: INFO: Sphere_step: step_impl: ******Entering Username **********

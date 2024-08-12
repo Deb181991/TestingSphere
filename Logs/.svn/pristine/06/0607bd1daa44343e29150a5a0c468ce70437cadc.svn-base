@@ -1,0 +1,352 @@
+15-Sep-22 10:43:44- ====== WebDriver manager ======
+15-Sep-22 10:43:46- Get LATEST chromedriver version for google-chrome 105.0.5195
+15-Sep-22 10:43:50- Driver [C:\Users\debadatta\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+15-Sep-22 10:43:53- ****** Driver Initialized ******
+15-Sep-22 10:43:53- ******Browser Launched ******
+15-Sep-22 10:43:55- Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+15-Sep-22 10:44:02- ******Entering Username **********
+15-Sep-22 10:44:02- ******Entering Username **********
+15-Sep-22 10:44:02- ******Enter Data ******
+15-Sep-22 10:44:05- ****** Waitinging ******
+15-Sep-22 10:44:05- ******Clicking Element ******
+15-Sep-22 10:44:05- ************ Retrieving text *************
+15-Sep-22 10:44:05- debadatta1@esspl.com
+15-Sep-22 10:44:05- *******aaaaaaaaa********
+15-Sep-22 10:44:05- ******* way to log print ********
+15-Sep-22 10:44:05- ************ Retrieving text *************
+15-Sep-22 10:44:05- Sign In
+15-Sep-22 10:44:05- *******Log Print********
+15-Sep-22 10:44:05- ************ Retrieving text *************
+15-Sep-22 10:44:05- Sign In
+15-Sep-22 10:44:05- ******Enter Data ******
+15-Sep-22 10:44:05- ******Clicking Element ******
+15-Sep-22 10:44:08- ****** Waitinging ******
+15-Sep-22 10:44:08- ******Enter Data ******
+15-Sep-22 10:44:08- Waiting for password to be visible
+15-Sep-22 10:44:08- ************* Waiting For Element *************
+15-Sep-22 10:44:08- ******Enter Data ******
+15-Sep-22 10:44:08- ******Clicking Element ******
+15-Sep-22 10:44:10- ****** Waitinging ******
+15-Sep-22 10:44:10- ******Clicking Element ******
+15-Sep-22 10:44:11- ****** Waitinging ******
+15-Sep-22 10:44:12- ******Clicking Element ******
+15-Sep-22 10:44:14- ****** Waitinging ******
+15-Sep-22 10:44:14- ******Clicking Element ******
+15-Sep-22 10:44:16- ****** Waitinging ******
+15-Sep-22 10:44:16- ******Enter Data ******
+15-Sep-22 10:44:16- ******Enter Data ******
+15-Sep-22 10:44:17- ****** Waitinging ******
+15-Sep-22 10:44:17- ******Enter Data ******
+15-Sep-22 10:44:18- ****** Waitinging ******
+15-Sep-22 10:44:18- ******Enter Data ******
+15-Sep-22 10:44:19- ****** Waitinging ******
+15-Sep-22 10:44:22- ******Clicking Element ******
+15-Sep-22 10:44:24- ****** Waitinging ******
+15-Sep-22 10:44:24- ******Enter Data ******
+15-Sep-22 10:44:25- ****** Waitinging ******
+15-Sep-22 10:44:25- ******Enter Data ******
+15-Sep-22 10:44:26- ****** Waitinging ******
+15-Sep-22 10:44:27- ******Enter Data ******
+15-Sep-22 10:44:28- ****** Waitinging ******
+15-Sep-22 10:44:28- ******Enter Data ******
+15-Sep-22 10:44:29- ****** Waitinging ******
+15-Sep-22 10:44:29- ******Enter Data ******
+15-Sep-22 10:44:32- ****** Waitinging ******
+15-Sep-22 10:44:32- ******Clicking Element ******
+15-Sep-22 10:44:34- ****** Waitinging ******
+15-Sep-22 10:44:34- ******Clicking Element ******
+15-Sep-22 10:44:35- ****** Waitinging ******
+15-Sep-22 10:44:35- ******Clicking Element ******
+15-Sep-22 10:44:36- ****** Waitinging ******
+15-Sep-22 10:44:37- ******Clicking Element ******
+15-Sep-22 10:44:39- ****** Waitinging ******
+15-Sep-22 10:44:40- ******Clicking Element ******
+15-Sep-22 10:44:42- ****** Waitinging ******
+15-Sep-22 10:44:42- ******Clicking Element ******
+15-Sep-22 10:44:43- ****** Waitinging ******
+15-Sep-22 10:44:43- ************ Retrieving text *************
+15-Sep-22 10:44:43- ZND166320247690
+15-Sep-22 10:44:44- ****** Waitinging ******
+15-Sep-22 10:44:44- ******Clicking Element ******
+15-Sep-22 10:44:46- ****** Waitinging ******
+15-Sep-22 10:44:48- ****** Waitinging ******
+15-Sep-22 10:44:48- ******Clicking Element ******
+15-Sep-22 10:44:50- ****** Waitinging ******
+15-Sep-22 10:44:50- ******Clicking Element ******
+15-Sep-22 10:44:58- ****** Waitinging ******
+15-Sep-22 10:44:58- ******Clicking Element ******
+15-Sep-22 10:45:00- ****** Waitinging ******
+15-Sep-22 10:45:00- ******Clicking Element ******
+15-Sep-22 10:45:00- ****** Driver Initialized ******
+15-Sep-22 10:45:00- ******Browser Launched ******
+15-Sep-22 10:45:02- Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+15-Sep-22 10:45:02- ******Entering Username **********
+15-Sep-22 10:45:02- ******Entering Username **********
+15-Sep-22 10:45:02- ******Enter Data ******
+15-Sep-22 10:45:05- ****** Waitinging ******
+15-Sep-22 10:45:05- ******Clicking Element ******
+15-Sep-22 10:45:05- ************ Retrieving text *************
+15-Sep-22 10:45:05- santosh@esspl.com
+15-Sep-22 10:45:05- *******aaaaaaaaa********
+15-Sep-22 10:45:05- ******* way to log print ********
+15-Sep-22 10:45:05- ************ Retrieving text *************
+15-Sep-22 10:45:05- Sign In
+15-Sep-22 10:45:05- *******Log Print********
+15-Sep-22 10:45:05- ************ Retrieving text *************
+15-Sep-22 10:45:05- Sign In
+15-Sep-22 10:45:05- ******Enter Data ******
+15-Sep-22 10:45:05- ******Clicking Element ******
+15-Sep-22 10:45:08- ****** Waitinging ******
+15-Sep-22 10:45:09- ******Enter Data ******
+15-Sep-22 10:45:09- Waiting for password to be visible
+15-Sep-22 10:45:09- ************* Waiting For Element *************
+15-Sep-22 10:45:09- ******Enter Data ******
+**
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+ZND166320247690
+ZND166320247690
+ZND166320247690
+ZND166320247690
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Driver Initialized ******
+****** Driver Initialized ******
+****** Driver Initialized ******
+****** Driver Initialized ******
+******Browser Launched ******
+******Browser Launched ******
+******Browser Launched ******
+******Browser Launched ******
+Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Entering Username **********
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+santosh@esspl.com
+santosh@esspl.com
+santosh@esspl.com
+santosh@esspl.com
+*******aaaaaaaaa********
+*******aaaaaaaaa********
+*******aaaaaaaaa********
+*******aaaaaaaaa********
+******* way to log print ********
+******* way to log print ********
+******* way to log print ********
+******* way to log print ********
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+Sign In
+Sign In
+Sign In
+Sign In
+*******Log Print********
+*******Log Print********
+*******Log Print********
+*******Log Print********
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+Sign In
+Sign In
+Sign In
+Sign In
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+Waiting for password to be visible
+Waiting for password to be visible
+Waiting for password to be visible
+Waiting for password to be visible
+************* Waiting For Element *************
+************* Waiting For Element *************
+************* Waiting For Element *************
+************* Waiting For Element *************
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******

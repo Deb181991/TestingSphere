@@ -1,0 +1,6 @@
+Feature: Check the login functionality of sphereWMS application # Features/Sphere/Sphere_pick.feature:1
+
+  @Pick2
+  Scenario Outline: Parallel2 -- @1.1                               # Features/Sphere/Sphere_pick.feature:40
+    Given launch the "https://sandbox.v2.nonprod.spherewms.com/"    # Features/steps/Sphere_step.py:18
+    Then Enter the "umar.anwar@spherewms.com" in the username field # Features/steps/Sphere_step.py:28

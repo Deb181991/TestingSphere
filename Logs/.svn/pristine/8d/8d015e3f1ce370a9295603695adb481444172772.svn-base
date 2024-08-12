@@ -1,0 +1,193 @@
+15-Sep-22 11:01:25- ====== WebDriver manager ======
+15-Sep-22 11:01:26- Get LATEST chromedriver version for google-chrome 105.0.5195
+15-Sep-22 11:01:27- Driver [C:\Users\MonalisaB\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+15-Sep-22 11:01:30- ****** Driver Initialized ******
+15-Sep-22 11:01:31- ******Browser Launched ******
+15-Sep-22 11:01:33- Navigating to https://uat.lineclearexpressonline.com/#/dashboard
+15-Sep-22 11:01:37- **************Title matched ***************
+15-Sep-22 11:01:37- ******Entering Username **********
+15-Sep-22 11:01:38- ******Enter Data ******
+15-Sep-22 11:01:41- ****** Waitinging ******
+15-Sep-22 11:01:41- ******Clicking Element ******
+15-Sep-22 11:01:41- ************ Retrieving text *************
+15-Sep-22 11:01:41- debadatta1@esspl.com
+15-Sep-22 11:01:41- *******aaaaaaaaa********
+15-Sep-22 11:01:41- ******* way to log print ********
+15-Sep-22 11:01:41- ************ Retrieving text *************
+15-Sep-22 11:01:41- Sign In
+15-Sep-22 11:01:41- *******Log Print********
+15-Sep-22 11:01:41- ************ Retrieving text *************
+15-Sep-22 11:01:41- Sign In
+15-Sep-22 11:01:41- ******Enter Data ******
+15-Sep-22 11:01:41- ******Clicking Element ******
+15-Sep-22 11:01:44- ****** Waitinging ******
+15-Sep-22 11:01:44- ******Enter Data ******
+15-Sep-22 11:01:44- Waiting for password to be visible
+15-Sep-22 11:01:44- ************* Waiting For Element *************
+15-Sep-22 11:01:44- ******Enter Data ******
+15-Sep-22 11:01:44- ******Clicking Element ******
+15-Sep-22 11:01:46- ****** Waitinging ******
+15-Sep-22 11:01:47- ******Clicking Element ******
+15-Sep-22 11:01:48- ****** Waitinging ******
+15-Sep-22 11:01:48- ******Clicking Element ******
+15-Sep-22 11:01:50- ****** Waitinging ******
+15-Sep-22 11:01:50- ******Clicking Element ******
+15-Sep-22 11:01:52- ****** Waitinging ******
+15-Sep-22 11:01:52- ******Enter Data ******
+15-Sep-22 11:01:52- ******Enter Data ******
+15-Sep-22 11:01:53- ****** Waitinging ******
+15-Sep-22 11:01:53- ******Enter Data ******
+15-Sep-22 11:01:54- ****** Waitinging ******
+15-Sep-22 11:01:55- ******Enter Data ******
+15-Sep-22 11:01:56- ****** Waitinging ******
+15-Sep-22 11:01:56- ******Clicking Element ******
+15-Sep-22 11:01:58- ****** Waitinging ******
+15-Sep-22 11:01:58- ******Enter Data ******
+15-Sep-22 11:01:59- ****** Waitinging ******
+15-Sep-22 11:01:59- ******Enter Data ******
+15-Sep-22 11:02:00- ****** Waitinging ******
+15-Sep-22 11:02:00- ******Enter Data ******
+15-Sep-22 11:02:01- ****** Waitinging ******
+15-Sep-22 11:02:01- ******Enter Data ******
+15-Sep-22 11:02:02- ****** Waitinging ******
+15-Sep-22 11:02:02- ******Enter Data ******
+15-Sep-22 11:02:05- ****** Waitinging ******
+15-Sep-22 11:02:05- ******Clicking Element ******
+15-Sep-22 11:02:07- ****** Waitinging ******
+15-Sep-22 11:02:07- ******Clicking Element ******
+15-Sep-22 11:02:08- ****** Waitinging ******
+15-Sep-22 11:02:09- ******Clicking Element ******
+15-Sep-22 11:02:10- ****** Waitinging ******
+15-Sep-22 11:02:10- ******Clicking Element ******
+15-Sep-22 11:02:13- ****** Waitinging ******
+15-Sep-22 11:02:13- ******Clicking Element ******
+15-Sep-22 11:02:15- ****** Waitinging ******
+15-Sep-22 11:02:15- ******Clicking Element ******
+15-Sep-22 11:02:16- ****** Waitinging ******
+15-Sep-22 11:02:16- ************ Retrieving text *************
+15-Sep-22 11:02:16- ZND166320247829
+15-Sep-22 11:02:17- ****** Waitinging ******
+15-Sep-22 11:02:17- ******Clicking Element ******
+15-Sep-22 11:02:19- ****** Waitinging ******
+15-Sep-22 11:02:21- ****** Waitinging ******
+15-Sep-22 11:02:21- ******Clicking Element ******
+15-Sep-22 11:02:23- ****** Waitinging ******
+15-Sep-22 11:02:23- ******Clicking Element ******
+15-Sep-22 11:02:33- ****** Waitinging ******
+15-Sep-22 11:02:33- ******Clicking Element ******
+15-Sep-22 11:02:35- ****** Waitinging ******
+15-Sep-22 11:02:35- ******Clicking Element ******
+15-Sep-22 11:02:37- ****** Waitinging ******
+*****Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Enter Data ******
+******Enter Data ******
+******Enter Data ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+************ Retrieving text *************
+************ Retrieving text *************
+************ Retrieving text *************
+ZND166320247829
+ZND166320247829
+ZND166320247829
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******
+******Clicking Element ******
+******Clicking Element ******
+******Clicking Element ******
+****** Waitinging ******
+****** Waitinging ******
+****** Waitinging ******

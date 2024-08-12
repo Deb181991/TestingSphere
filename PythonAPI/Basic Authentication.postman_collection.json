@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "c697c74c-88a8-4a0b-bf00-b7415be31a18",
+		"name": "Basic Authentication",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23516692"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"protocolProfileBehavior": {
+				"removeRefererHeaderOnRedirect": false,
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Test@1234",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "suraj.parida71@gmail.com",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Shipment\": [\r\n    {\r\n      \"ShipmentServiceType\": \"Standard Delivery\",\r\n      \"SenderName\": \"ABC\",\r\n      \"RecipientName\": \"XYZ\",\r\n      \"ConfigServiceCode\": \"ST\",\r\n      \"ShipmentAddressFrom\": {\r\n        \"CompanyName\": \"REHAN CORP\",\r\n        \"UnitNumber\": \"NO 7\",\r\n        \"Address\": \"KANGAR NEW\",\r\n        \"Address2\": \"KANGAR OLD\",\r\n        \"PostalCode\": \"40000\",\r\n        \"City\": \"Kangar\",\r\n        \"State\": \"Perlis\",\r\n        \"Email\": \"abc@gmail.com\",\r\n        \"PhoneNumber\": \"0112325665\",\r\n        \"ICNumber\": \"9999999999\"\r\n      },\r\n      \"WBSenderDisplayAddress\":\"Sender address\",\r\n      \"ShipmentAddressTo\": {\r\n        \"CompanyName\": \"XYZ Enterprise\",\r\n        \"UnitNumber\": \"10\",\r\n        \"Address\": \"New Apartment 11\",\r\n        \"Address2\": \"\",\r\n        \"PostalCode\": \"42200\",\r\n        \"City\": \"Kangar\",\r\n        \"State\": \"Perlis\",\r\n        \"Email\": \"xyz@gmail.com\",\r\n        \"PhoneNumber\": \"012315566561\",\r\n        \"ICNumber\": \"9999999999\"\r\n      },\r\n      \"RecipientPhone\": \"012954515985\",\r\n      \"ParcelType\": \"Package\",\r\n      \"ShipmentRef\": \"\",\r\n      \"ShipmentDescription\": \"This is a Domestic Shipment\",\r\n      \"ShipmentType\": \"Pickup\",\r\n      \"PickupAddressType\": \"Default\",\r\n      \"CODAmount\": \"\",\r\n      \"InsurancePurchase\": [\r\n        {\r\n          \"ProductDescription\": \"INS1\",\r\n          \"Quantity\": \"1\",\r\n          \"UnitPrice\": \"100\"\r\n        },\r\n        {\r\n          \"ProductDescription\": \"INS2\",\r\n          \"Quantity\": \"1\",\r\n          \"UnitPrice\": \"300\"\r\n        },\r\n        {\r\n          \"ProductDescription\": \"INS3\",\r\n          \"Quantity\": \"1\",\r\n          \"UnitPrice\": \"100\"\r\n        },\r\n        {\r\n          \"ProductDescription\": \"INS4\",\r\n          \"Quantity\": \"1\",\r\n          \"UnitPrice\": \"100\"\r\n        },\r\n        {\r\n          \"ProductDescription\": \"INS5\",\r\n          \"Quantity\": \"1\",\r\n          \"UnitPrice\": \"100\"\r\n        }\r\n        \r\n      ],\r\n      \"WayBill\": [\r\n        {\r\n          \"ProductID\": \"\",\r\n          \"WayBillNo\": \"\",\r\n          \"Weight\": \"7\",\r\n          \"VolumeWidth\": \"\",\r\n          \"VolumeHeight\": \"\",\r\n          \"VolumeLength\": \"\"\r\n        }\r\n      ],\r\n      \"DONumber\": \"\"\r\n    }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://uat-app.lineclearexpressonline.com/Accounts/CreateShipment",
+					"protocol": "https",
+					"host": [
+						"uat-app",
+						"lineclearexpressonline",
+						"com"
+					],
+					"path": [
+						"Accounts",
+						"CreateShipment"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

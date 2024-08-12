@@ -1,0 +1,83 @@
+curl --location --request POST 'https://uat-app.lineclearexpressonline.com/Accounts/CreateShipment' \
+--header 'Authorization: Basic c3VyYWoucGFyaWRhNzFAZ21haWwuY29tOlRlc3RAMTIzNA==' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+  "Shipment": [
+    {
+      "ShipmentServiceType": "Standard Delivery",
+      "SenderName": "ABC",
+      "RecipientName": "XYZ",
+      "ConfigServiceCode": "ST00000004",
+      "ShipmentAddressFrom": {
+        "CompanyName": "REHAN CORP",
+        "UnitNumber": "NO 7",
+        "Address": "KANGAR NEW",
+        "Address2": "KANGAR OLD",
+        "PostalCode": "42200",
+        "City": "Kangar",
+        "State": "Perlis",
+        "Email": "abc@gmail.com",
+        "PhoneNumber": "0112325665",
+        "ICNumber": "9999999999"
+      },
+      "WBSenderDisplayAddress": "Sender address",
+      "ShipmentAddressTo": {
+        "CompanyName": "XYZ Enterprise",
+        "UnitNumber": "10",
+        "Address": "New Apartment 11",
+        "Address2": "",
+        "PostalCode": "42200",
+        "City": "Kangar",
+        "State": "Perlis",
+        "Email": "xyz@gmail.com",
+        "PhoneNumber": "012315566561",
+        "ICNumber": "9999999999"
+      },
+      "RecipientPhone": "012954515985",
+      "ParcelType": "Package",
+      "ShipmentRef": "",
+      "ShipmentDescription": "This is a Domestic Shipment",
+      "ShipmentType": "Pickup",
+      "PickupAddressType": "Default",
+      "CODAmount": "",
+      "InsurancePurchase": [
+        {
+          "ProductDescription": "INS1",
+          "Quantity": "1",
+          "UnitPrice": "100"
+        },
+        {
+          "ProductDescription": "INS2",
+          "Quantity": "1",
+          "UnitPrice": "300"
+        },
+        {
+          "ProductDescription": "INS3",
+          "Quantity": "1",
+          "UnitPrice": "100"
+        },
+        {
+          "ProductDescription": "INS4",
+          "Quantity": "1",
+          "UnitPrice": "100"
+        },
+        {
+          "ProductDescription": "INS5",
+          "Quantity": "1",
+          "UnitPrice": "100"
+        }
+      ],
+      "WayBill": [
+        {
+          "ProductID": "",
+          "WayBillNo": "",
+          "Weight": "7",
+          "VolumeWidth": "",
+          "VolumeHeight": "",
+          "VolumeLength": ""
+        }
+      ],
+      "DONumber": ""
+    }
+  ]
+}'
